@@ -1,6 +1,11 @@
-# Caio Vinicius Aires Da Silva
-# Idade: 17 anos
-# Gosto de jogar futebol
-# Joga FC 25 no PC
-# Moro no bairro Adhemar Garcia
-# Eu amo a aula de zumba, mas amo mesmo a de programação de aplicativos
+
+
+x = 34 - 23
+y = "Hello "
+z = 3.45
+if z == 3.45 or y == "Hello ":
+
+    x = x + 1
+    y = y + "Word" #Concatenação de Strings
+print(x)
+print(y)
