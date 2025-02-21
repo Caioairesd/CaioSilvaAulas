@@ -2,4 +2,5 @@ vendasTeconologia = {'iphone':15000,'Samsung galaxy':12000,'Tv Samsung':10000,'p
 
 for chave in vendasTeconologia:
     print(chave)
+    
     print(" O produto {} vendeu {} unidades".format(chave,vendasTeconologia[chave]))
