@@ -1,0 +1,8 @@
+arquivo = open('C:/Users/caio_va_silva/Documents/Txt/GOT.txt','w')
+arquivo.write('Escrevendo no arquivo.')
+arquivo.write('John Snow\n')
+arquivo.write('Arya Stark\n')
+arquivo.write('Sansa Stark\n')
+arquivo.write('Bran Stark\n')
+arquivo.close()
+print('Fim programa')
